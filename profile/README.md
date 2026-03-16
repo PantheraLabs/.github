@@ -66,5 +66,5 @@ We welcome collaboration, feedback, and contributions from the developer communi
 ## Contact
 
 GitHub: https://github.com/PantheraLabs  
-Website: Coming soon  
-Email: contact@pantheralabs.dev
+Website: -
+Email: -
